@@ -1,3 +1,9 @@
+//
+// añadidos comentarios
+// programa simple utilizado para aprender el uso de git y github
+// el primer commit tenía sólo el código
+// antes del segundo le añadimos estos comentarios
+//
 var numero = Math.random();
 
 if ( numero < 0.5 ) {
